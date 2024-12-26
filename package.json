@@ -1,10 +1,9 @@
 {
   "name": "imdb-clone",
-  "homepage": "https://vaibhavisuvarna.github.io/imdb-clone/",
+  "homepage": "",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",

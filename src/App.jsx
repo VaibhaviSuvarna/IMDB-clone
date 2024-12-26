@@ -37,7 +37,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/imdb-clone">
         <Navbar />
         <Routes>
           <Route
